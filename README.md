@@ -1,6 +1,6 @@
-# TruCol [![Solidity version](https://img.shields.io/badge/Solidity-v0.8.1-ff69b4.svg?maxAge=3600)](https://solidity.readthedocs.io/en/v0.8.1/installing-solidity.html) [![node version](https://img.shields.io/badge/node.js-%3E=_v10-green.svg)](http://nodejs.org/download/)  [![License: GPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Build Status](https://travis-ci.com/v-bosch/TruCol.svg?branch=main)](https://travis-ci.com/v-bosch/TruCol)
+# TruCol GUI [![Solidity version](https://img.shields.io/badge/Solidity-v0.8.1-ff69b4.svg?maxAge=3600)](https://solidity.readthedocs.io/en/v0.8.1/installing-solidity.html) [![node version](https://img.shields.io/badge/node.js-%3E=_v10-green.svg)](http://nodejs.org/download/)  [![License: GPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0) [![Build Status](https://travis-ci.com/v-bosch/TruCol.svg?branch=main)](https://travis-ci.com/v-bosch/TruCol)
 
-TruCol aims at building a decentralized, trust-less platform for test-driven programming development.
+TruCol aims at building a decentralized, trust-less platform for test-driven programming development. This GUI allows people to submit their sponsor contracts to our server such that they can receive feedback on the safety of the contract (e.g. are there any loopholes malicious bounty hunters might exploit), and have their contract automatically deployed on the Ethereum chain. The TruCol protocol can also be used directly by the users themselves, we intend to provide a CLI to make that easier.
 
 ## Description
 
